@@ -1,0 +1,11 @@
+services:
+  acestream:
+    image: blaiseio/acelink:latest
+    platform: linux/amd64
+    ports:
+      - "6878:6878"
+    restart: unless-stopped
+    container_name: acestream-engine
+    environment:
+      - ACESTREAM_UID=1000
+      - ACESTREAM_GID=1000

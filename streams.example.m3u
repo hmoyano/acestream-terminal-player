@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Sports Channel HD
+http://localhost:6878/ace/getstream?id=YOUR_ACESTREAM_ID_HERE
+#EXTINF:-1,Movie Channel 1080p
+http://localhost:6878/ace/getstream?id=YOUR_ACESTREAM_ID_HERE
+#EXTINF:-1,News Channel
+http://localhost:6878/ace/getstream?id=YOUR_ACESTREAM_ID_HERE
+#EXTINF:-1,Documentary Channel
+http://localhost:6878/ace/getstream?id=YOUR_ACESTREAM_ID_HERE
