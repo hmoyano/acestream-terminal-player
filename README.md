@@ -4,7 +4,7 @@ A simplified terminal-based application for streaming content using AceStream an
 
 ## Prerequisites
 
-- Docker ([Download here]https://www.docker.com))
+- Docker ([Download here](https://www.docker.com))
 - IINA player ([Download here](https://iina.io))
 
 ## Setup
